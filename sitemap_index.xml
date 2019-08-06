@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://sakshir0.github.io/</loc>
+  <video:video> 
+	<video:title>Moodify: Creating Personalized Spotify Playlists Based on Mood</video:title>
+   	<video:description>Moodify creates personalized Spotify playlists with up to 30 songs that fit the user’s current mood. It uses the five hundred most recent tracks saved to a user’s profile as possible songs for the playlist. There are four moods: happy, sad, angry, and relaxed. The mood of the user is obtained using either by taking a picture of the user’s face and reading their emotions or by them manually inputting a mood.</video:description>
+   	<video:player_loc> https://www.youtube.com/watch?v=Euq_iECaoW4</video:player_loc>
+  </video:video>
+
+  <video:video> 
+	<video:title>Veins Application</video:title>
+   	<video:description>This project simulates a network between cars and an RSU (road side unit) at a four-way intersection. The cars send messages to the RSU with their current road ID, which direction they want to turn, and other necessary information. The RSU will figure out which vehicles are allowed to go based on normal intersection rules and then send a message containing a list of vehicles allowed to go out to all the vehicles. If the vehicle is allowed to go, then it will proceed through the intersection. Otherwise, it will slow down and stop at the intersection and wait until it is allowed to go.</video:description>
+   	<video:player_loc> https://www.youtube.com/watch?v=0zKuxSREdNc</video:player_loc>
+  </video:video>
+
+   <video:video> 
+	<video:title>Moodify: Creating Personalized Spotify Playlists Based on Mood</video:title>
+   	<video:description>Moodify creates personalized Spotify playlists with up to 30 songs that fit the user’s current mood. It uses the five hundred most recent tracks saved to a user’s profile as possible songs for the playlist. There are four moods: happy, sad, angry, and relaxed. The mood of the user is obtained using either by taking a picture of the user’s face and reading their emotions or by them manually inputting a mood.</video:description>
+   	<video:player_loc> https://www.youtube.com/watch?v=Euq_iECaoW4</video:player_loc>
+  </video:video>
+
+   <video:video> 
+	<video:title>Sailaway: VR Boating Game</video:title>
+   	<video:description>This is a VR boating game with a moving platform that responds to the movement of the VR controllers. The objective of the game is collect the coins floating around in the water. The person sits on a moving platform we created that is similar to a turntable. When the person turns the boat, the platform will change direction and speed based on the movement of the VR controller. This allows the user to feel like they are really sitting in a boat and riding on the waves.</video:description>
+   	<video:player_loc> https://www.youtube.com/watch?v=4jDGh83YB1s</video:player_loc>
+  </video:video>
+
+  <video:video> 
+	<video:title>Tl;dr: A Chrome Extension That Summarizes EULAs</video:title>
+   	<video:description>Our application, Tl;dr, finds the most notable sections of such a legal document — namely, sections which seem unusual and do not align with typical EULAs — and compiles them into a brief summary. It is a Chrome Extension that users can use directly from their browser when they encounter one of these legal documents. A user would highlight the text they wish to be summarized and would subsequently see a brief summary that lists the most noteworthy parts of the document.</video:description>
+   	<video:player_loc>https://www.youtube.com/watch?v=kGdt8JxDQuA</video:player_loc>
+  </video:video>
+
+  <lastmod>2019-08-06T02:12:50+00:00</lastmod>
+</url>
+</urlset>
